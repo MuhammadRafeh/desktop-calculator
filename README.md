@@ -1,2 +1,2 @@
 # Desktop-Calculator
-A Desktop Application Calculator build with PyQt5
+A PyQt5 Desktop Calculator.
