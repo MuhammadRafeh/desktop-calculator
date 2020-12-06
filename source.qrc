@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>download.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>black-calculator-near-ballpoint-pen-on-white-printed-paper-53621 (1).jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>black-calculator-near-ballpoint-pen-on-white-printed-paper-53621.jpg</file>
+  </qresource>
+</RCC>
