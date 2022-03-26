@@ -1,7 +1,7 @@
 # Desktop Calculator
 A PyQt5 Desktop/OS/System Calculator for DMAS
 
-<img src="https://i.imgur.com/wldXYSY.png" width="90%" />
+<img src="https://i.imgur.com/wldXYSY.png" width="60%" />
 
 ## Steps
 
