@@ -13,3 +13,5 @@ OR
 pip3 install -r requirements.txt
 python3 Cal.py
 ```
+
+Now you'll have up and running calculator, Enjoy!
