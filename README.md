@@ -1,6 +1,8 @@
 # Desktop Calculator
 A PyQt5 Desktop/OS/System Calculator for DMAS
 
+## Preview
+
 <img src="https://i.imgur.com/wldXYSY.png" width="60%" />
 
 ## Steps
